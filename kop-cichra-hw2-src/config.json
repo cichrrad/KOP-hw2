@@ -1,0 +1,7 @@
+{
+    "T0": 30.0,
+    "alpha": 0.98995,
+    "max_stagnation": 60,
+    "max_iterations": 150000,
+    "T_min": 0.001
+}
